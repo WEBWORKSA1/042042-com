@@ -1,0 +1,3 @@
+# Page bodies are regenerated from the published pages with: python3 build.py --extract
+src/
+__pycache__/
