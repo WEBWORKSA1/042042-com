@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://042042.com/sitemap.xml
